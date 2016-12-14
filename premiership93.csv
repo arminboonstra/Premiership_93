@@ -1,0 +1,925 @@
+Week;Team;Points
+1;Arsenal;0
+1;Aston Villa;3
+1;Chelsea;0
+1;Liverpool;3
+1;Man City;1
+1;Newcastle;0
+1;Oldham;0
+1;Sheffield United;3
+1;Southampton;0
+1;West Ham;0
+1;Norwich;0
+1;Coventry;3
+1;QPR;0
+1;Blackburn;3
+1;Sheffield Weds;0
+1;Leeds;1
+1;Tottenham;3
+1;Ipswich;3
+1;Swindon;0
+1;Everton;3
+1;Wimbledon;3
+1;Man United;3
+2;Tottenham;3
+2;Everton;6
+2;Ipswich;6
+2;Leeds;4
+2;Wimbledon;4
+2;Blackburn;3
+2;Coventry;6
+2;Man United;6
+2;QPR;0
+2;Sheffield Weds;1
+2;Swindon;0
+2;Arsenal;3
+2;Man City;1
+2;Southampton;0
+2;West Ham;0
+2;Chelsea;1
+2;Norwich;3
+2;Newcastle;0
+2;Sheffield United;3
+2;Liverpool;6
+2;Aston Villa;4
+2;Oldham;3
+3;Blackburn;6
+3;Coventry;7
+3;Everton;9
+3;Ipswich;9
+3;Leeds;4
+3;Man United;7
+3;QPR;3
+3;Sheffield Weds;1
+3;Tottenham;6
+3;Wimbledon;5
+3;Swindon;0
+3;Oldham;3
+3;West Ham;1
+3;Sheffield United;3
+3;Chelsea;1
+3;Norwich;6
+3;Newcastle;1
+3;Southampton;0
+3;Arsenal;6
+3;Man City;1
+3;Aston Villa;5
+3;Liverpool;9
+4;Aston Villa;5
+4;Arsenal;9
+4;Man City;1
+4;Oldham;4
+4;Sheffield United;6
+4;Chelsea;4
+4;Liverpool;9
+4;Newcastle;4
+4;Norwich;9
+4;Southampton;3
+4;West Ham;4
+4;Man United;10
+4;Leeds;4
+4;Blackburn;9
+4;Coventry;8
+4;Wimbledon;5
+4;QPR;3
+4;Tottenham;9
+4;Everton;9
+4;Ipswich;9
+4;Swindon;0
+4;Sheffield Weds;1
+5;Man City;2
+5;Arsenal;12
+5;Aston Villa;8
+5;Chelsea;5
+5;Liverpool;12
+5;Norwich;10
+5;Oldham;5
+5;Sheffield United;7
+5;Southampton;3
+5;West Ham;4
+5;Newcastle;5
+5;Coventry;9
+5;Everton;9
+5;Tottenham;9
+5;Sheffield Weds;2
+5;Leeds;4
+5;Swindon;1
+5;Wimbledon;6
+5;Ipswich;10
+5;Man United;13
+5;QPR;6
+5;Blackburn;10
+6;Leeds;7
+6;Everton;9
+6;Ipswich;11
+6;Wimbledon;9
+6;Blackburn;11
+6;Coventry;12
+6;Man United;16
+6;QPR;9
+6;Sheffield Weds;3
+6;Swindon;1
+6;Tottenham;10
+6;Oldham;5
+6;Aston Villa;11
+6;Newcastle;6
+6;Southampton;3
+6;Arsenal;13
+6;Liverpool;12
+6;West Ham;4
+6;Sheffield United;7
+6;Norwich;11
+6;Man City;5
+6;Chelsea;6
+7;Arsenal;16
+7;Aston Villa;12
+7;Chelsea;9
+7;Man City;8
+7;Norwich;11
+7;Oldham;5
+7;Sheffield United;8
+7;Southampton;3
+7;West Ham;5
+7;Liverpool;12
+7;Newcastle;9
+7;Ipswich;11
+7;Coventry;13
+7;Man United;16
+7;QPR;9
+7;Wimbledon;12
+7;Everton;12
+7;Tottenham;11
+7;Leeds;10
+7;Swindon;2
+7;Blackburn;14
+7;Sheffield Weds;3
+8;Blackburn;14
+8;Coventry;14
+8;Everton;15
+8;Ipswich;11
+8;Leeds;13
+8;QPR;10
+8;Sheffield Weds;6
+8;Swindon;3
+8;Tottenham;14
+8;Man United;19
+8;Wimbledon;15
+8;West Ham;8
+8;Chelsea;10
+8;Liverpool;12
+8;Aston Villa;15
+8;Sheffield United;8
+8;Norwich;12
+8;Southampton;3
+8;Newcastle;10
+8;Oldham;5
+8;Arsenal;16
+8;Man City;8
+9;Arsenal;19
+9;Blackburn;15
+9;Chelsea;13
+9;Coventry;14
+9;Everton;15
+9;Man United;22
+9;Newcastle;13
+9;Oldham;6
+9;Sheffield United;8
+9;Ipswich;12
+9;Wimbledon;16
+9;Southampton;3
+9;Sheffield Weds;7
+9;Liverpool;12
+9;Leeds;16
+9;Norwich;15
+9;Swindon;3
+9;West Ham;8
+9;Aston Villa;16
+9;Man City;11
+9;Tottenham;15
+9;QPR;11
+10;Aston Villa;16
+10;Leeds;19
+10;Liverpool;13
+10;Norwich;18
+10;QPR;14
+10;Sheffield Weds;7
+10;Southampton;4
+10;Swindon;3
+10;West Ham;11
+10;Tottenham;18
+10;Man City;12
+10;Newcastle;16
+10;Wimbledon;16
+10;Arsenal;20
+10;Coventry;14
+10;Ipswich;12
+10;Man United;25
+10;Sheffield United;9
+10;Blackburn;18
+10;Chelsea;13
+10;Everton;15
+10;Oldham;7
+11;Arsenal;21
+11;Chelsea;13
+11;Coventry;15
+11;Liverpool;16
+11;Man United;28
+11;Newcastle;16
+11;Sheffield Weds;8
+11;Swindon;4
+11;West Ham;12
+11;Ipswich;13
+11;Blackburn;19
+11;Man City;13
+11;Norwich;21
+11;Southampton;5
+11;Oldham;7
+11;Tottenham;18
+11;QPR;17
+11;Wimbledon;17
+11;Everton;16
+11;Aston Villa;17
+11;Leeds;20
+11;Sheffield United;10
+12;Aston Villa;20
+12;Everton;16
+12;Leeds;21
+12;Man City;14
+12;Norwich;22
+12;Oldham;8
+12;QPR;20
+12;Sheffield United;11
+12;Tottenham;19
+12;Southampton;8
+12;Wimbledon;17
+12;Chelsea;13
+12;Man United;31
+12;Blackburn;20
+12;Liverpool;17
+12;West Ham;13
+12;Arsenal;22
+12;Coventry;15
+12;Sheffield Weds;9
+12;Swindon;5
+12;Newcastle;16
+12;Ipswich;16
+13;Arsenal;23
+13;Blackburn;23
+13;Chelsea;13
+13;Ipswich;16
+13;Liverpool;20
+13;Man United;34
+13;Newcastle;19
+13;Sheffield Weds;10
+13;Swindon;5
+13;Coventry;16
+13;West Ham;16
+13;Norwich;23
+13;Tottenham;19
+13;Oldham;11
+13;Everton;19
+13;Southampton;8
+13;QPR;20
+13;Wimbledon;17
+13;Leeds;22
+13;Aston Villa;23
+13;Sheffield United;12
+13;Man City;14
+14;Arsenal;23
+14;Coventry;19
+14;Ipswich;16
+14;Leeds;25
+14;Liverpool;23
+14;QPR;23
+14;Sheffield United;12
+14;Southampton;11
+14;Wimbledon;20
+14;Man City;14
+14;Oldham;11
+14;Aston Villa;26
+14;Everton;19
+14;Sheffield Weds;13
+14;Chelsea;13
+14;West Ham;16
+14;Blackburn;23
+14;Norwich;26
+14;Tottenham;19
+14;Swindon;5
+14;Man United;37
+14;Newcastle;22
+15;Aston Villa;29
+15;Blackburn;26
+15;Chelsea;13
+15;Everton;19
+15;Man United;40
+15;Norwich;27
+15;Sheffield Weds;14
+15;Swindon;6
+15;Tottenham;20
+15;West Ham;19
+15;Newcastle;25
+15;Sheffield United;12
+15;Southampton;11
+15;Arsenal;26
+15;QPR;26
+15;Wimbledon;20
+15;Man City;15
+15;Coventry;20
+15;Ipswich;17
+15;Leeds;26
+15;Oldham;11
+15;Liverpool;23
+16;Chelsea;14
+16;Blackburn;29
+16;Everton;20
+16;Aston Villa;29
+16;Man United;41
+16;Newcastle;28
+16;Sheffield Weds;17
+16;Swindon;9
+16;Tottenham;21
+16;West Ham;20
+16;Arsenal;29
+16;Man City;16
+16;Coventry;20
+16;Leeds;27
+16;Southampton;14
+16;Ipswich;18
+16;Sheffield United;12
+16;Oldham;11
+16;QPR;26
+16;Wimbledon;21
+16;Arsenal;30
+16;Newcastle;28
+17;Coventry;20
+17;Ipswich;21
+17;Leeds;30
+17;Man City;16
+17;Oldham;14
+17;QPR;27
+17;Sheffield United;15
+17;Wimbledon;22
+17;Liverpool;26
+17;Southampton;14
+17;Coventry;23
+17;Man United;44
+17;Blackburn;29
+17;Swindon;9
+17;Sheffield Weds;20
+17;Norwich;27
+17;Tottenham;22
+17;Chelsea;14
+17;Everton;21
+17;Aston Villa;29
+17;West Ham;23
+17;Arsenal;30
+18;Everton;24
+18;Ipswich;22
+18;Leeds;33
+18;Man United;45
+18;QPR;28
+18;Sheffield Weds;23
+18;Swindon;10
+18;Tottenham;22
+18;Wimbledon;22
+18;Blackburn;32
+18;Arsenal;31
+18;Southampton;14
+18;Oldham;15
+18;Man City;16
+18;Norwich;28
+18;Aston Villa;30
+18;Liverpool;26
+18;Sheffield United;16
+18;Newcastle;31
+18;West Ham;26
+18;Chelsea;14
+18;Tottenham;23
+19;Oldham;18
+19;Sheffield United;16
+19;Aston Villa;31
+19;Liverpool;29
+19;Man City;19
+19;Southampton;14
+19;West Ham;26
+19;Aston Villa;31
+19;Chelsea;15
+19;Liverpool;30
+19;Man City;19
+19;Swindon;10
+19;Man United;48
+19;Sheffield Weds;24
+19;QPR;28
+19;Everton;24
+19;Ipswich;25
+19;Leeds;36
+19;Wimbledon;25
+19;Ipswich;26
+19;Swindon;11
+19;Tottenham;26
+20;Newcastle;32
+20;Oldham;18
+20;Sheffield United;17
+20;Southampton;14
+20;West Ham;29
+20;Arsenal;34
+20;Norwich;31
+20;Blackburn;35
+20;Coventry;24
+20;Everton;24
+20;Ipswich;29
+20;Man United;49
+20;Blackburn;38
+20;Everton;25
+20;QPR;31
+20;Coventry;24
+20;Sheffield Weds;24
+20;Leeds;36
+20;Man City;19
+20;Oldham;19
+20;Newcastle;35
+20;Norwich;31
+21;Leeds;39
+21;Sheffield Weds;27
+21;Swindon;14
+21;Tottenham;27
+21;Wimbledon;28
+21;Man United;52
+21;Newcastle;36
+21;Man United;53
+21;Sheffield United;18
+21;Wimbledon;28
+21;Everton;25
+21;Arsenal;34
+21;West Ham;29
+21;Southampton;14
+21;Liverpool;31
+21;Sheffield United;18
+21;Aston Villa;31
+21;Leeds;40
+21;Blackburn;39
+21;Liverpool;32
+21;Coventry;27
+21;Sheffield Weds;30
+22;Ipswich;30
+22;QPR;34
+22;Southampton;17
+22;Swindon;14
+22;Tottenham;27
+22;Chelsea;18
+22;Liverpool;33
+22;Man City;20
+22;West Ham;29
+22;Arsenal;37
+22;Blackburn;42
+22;West Ham;30
+22;Oldham;19
+22;Chelsea;18
+22;Arsenal;40
+22;Norwich;34
+22;Newcastle;36
+22;Wimbledon;29
+22;Southampton;18
+22;Tottenham;30
+22;Sheffield United;18
+22;Everton;25
+23;Leeds;41
+23;Norwich;34
+23;Oldham;19
+23;Sheffield Weds;31
+23;Aston Villa;31
+23;Everton;25
+23;Ipswich;30
+23;Man United;54
+23;Newcastle;39
+23;QPR;34
+23;Sheffield United;21
+23;QPR;35
+23;Aston Villa;34
+23;Man United;57
+23;Swindon;15
+23;Blackburn;45
+23;West Ham;33
+23;Liverpool;36
+23;Leeds;42
+23;Man City;20
+23;Sheffield Weds;34
+23;Oldham;19
+24;Southampton;18
+24;Swindon;15
+24;Tottenham;30
+24;Wimbledon;29
+24;Arsenal;41
+24;Chelsea;21
+24;Coventry;28
+24;Sheffield Weds;37
+24;West Ham;34
+24;Liverpool;37
+24;Norwich;34
+24;Norwich;37
+24;Chelsea;24
+24;Coventry;31
+24;Arsenal;44
+24;QPR;36
+24;Everton;25
+24;Swindon;16
+24;Tottenham;30
+24;Sheffield United;22
+24;Man United;58
+24;Newcastle;42
+25;Aston Villa;37
+25;Everton;28
+25;Leeds;43
+25;Man City;21
+25;Norwich;38
+25;Oldham;19
+25;Sheffield United;22
+25;Southampton;21
+25;Tottenham;30
+25;Wimbledon;32
+25;QPR;36
+25;West Ham;34
+25;Swindon;16
+25;Ipswich;31
+25;Arsenal;45
+25;Chelsea;25
+25;Liverpool;40
+25;Blackburn;48
+25;Coventry;31
+25;Man United;61
+25;Sheffield Weds;37
+25;Newcastle;45
+26;Arsenal;46
+26;Chelsea;26
+26;Coventry;31
+26;Ipswich;32
+26;Liverpool;43
+26;Man United;64
+26;Newcastle;45
+26;Sheffield Weds;40
+26;Swindon;19
+26;Blackburn;51
+26;West Ham;35
+26;Oldham;20
+26;Aston Villa;38
+26;QPR;39
+26;Wimbledon;33
+26;Man City;21
+26;Everton;28
+26;Southampton;24
+26;Sheffield United;22
+26;Tottenham;30
+26;Leeds;43
+26;Norwich;39
+27;Coventry;34
+27;Blackburn;54
+27;Everton;31
+27;Man City;24
+27;Norwich;40
+27;Oldham;23
+27;QPR;39
+27;Swindon;22
+27;Tottenham;30
+27;Aston Villa;41
+27;Aston Villa;44
+27;Ipswich;32
+27;Wimbledon;33
+27;Chelsea;26
+27;Ipswich;32
+27;Liverpool;44
+27;Southampton;24
+27;Man United;67
+27;Coventry;34
+27;Sheffield Weds;43
+27;Leeds;43
+27;Swindon;22
+28;Everton;32
+28;Man City;25
+28;Oldham;26
+28;Sheffield United;23
+28;Tottenham;30
+28;Wimbledon;36
+28;Norwich;41
+28;Southampton;27
+28;Blackburn;57
+28;Coventry;37
+28;Everton;33
+28;Ipswich;33
+28;West Ham;36
+28;Chelsea;26
+28;Coventry;38
+28;Blackburn;60
+28;Newcastle;45
+28;Arsenal;47
+28;Liverpool;44
+28;Newcastle;45
+28;Man City;25
+28;Arsenal;48
+29;Leeds;46
+29;Swindon;23
+29;Aston Villa;45
+29;Norwich;42
+29;Newcastle;48
+29;Arsenal;51
+29;Ipswich;36
+29;Liverpool;47
+29;Man City;28
+29;Norwich;43
+29;Southampton;30
+29;Liverpool;47
+29;Norwich;44
+29;Man City;29
+29;Blackburn;61
+29;Coventry;38
+29;Blackburn;61
+29;Sheffield United;23
+29;Coventry;38
+29;Swindon;23
+29;Sheffield Weds;44
+29;Wimbledon;36
+30;West Ham;37
+30;Chelsea;29
+30;Oldham;27
+30;Tottenham;31
+30;Blackburn;64
+30;Everton;36
+30;Ipswich;36
+30;Leeds;47
+30;Man United;67
+30;QPR;40
+30;Sheffield Weds;44
+30;Man United;68
+30;Tottenham;31
+30;Leeds;48
+30;Aston Villa;46
+30;Liverpool;47
+30;Oldham;27
+30;Arsenal;54
+30;Southampton;31
+30;Chelsea;32
+30;Man City;30
+30;Newcastle;51
+31;Swindon;24
+31;Tottenham;32
+31;Wimbledon;39
+31;Coventry;38
+31;Aston Villa;46
+31;Man City;30
+31;Newcastle;54
+31;Norwich;44
+31;Southampton;32
+31;Liverpool;50
+31;Sheffield United;24
+31;West Ham;38
+31;Sheffield United;25
+31;Norwich;44
+31;Aston Villa;49
+31;Ipswich;39
+31;Wimbledon;42
+31;Swindon;24
+31;QPR;43
+31;Sheffield Weds;45
+31;Everton;36
+31;Leeds;49
+32;Chelsea;35
+32;Leeds;52
+32;Man United;71
+32;Sheffield United;26
+32;Aston Villa;49
+32;Leeds;55
+32;Liverpool;53
+32;Man City;31
+32;QPR;46
+32;Southampton;32
+32;Swindon;25
+32;Wimbledon;42
+32;Aston Villa;49
+32;Sheffield Weds;45
+32;QPR;47
+32;Oldham;30
+32;Coventry;38
+32;Chelsea;35
+32;Sheffield United;27
+32;Wimbledon;42
+32;Arsenal;57
+32;Man United;72
+33;Tottenham;33
+33;West Ham;38
+33;Sheffield Weds;45
+33;Norwich;47
+33;Arsenal;58
+33;Newcastle;57
+33;Arsenal;61
+33;Blackburn;67
+33;Chelsea;38
+33;Coventry;41
+33;Everton;36
+33;Ipswich;40
+33;Newcastle;60
+33;Blackburn;70
+33;Everton;36
+33;Man United;73
+33;Ipswich;40
+33;Liverpool;53
+33;Swindon;25
+33;West Ham;38
+33;Norwich;47
+33;Tottenham;36
+34;Ipswich;40
+34;Oldham;31
+34;Sheffield United;28
+34;Wimbledon;45
+34;Sheffield United;31
+34;Ipswich;41
+34;Newcastle;63
+34;Wimbledon;48
+34;Aston Villa;50
+34;Man United;76
+34;Sheffield Weds;48
+34;QPR;50
+34;Man City;32
+34;Southampton;33
+34;Leeds;55
+34;West Ham;38
+34;Man City;33
+34;Norwich;47
+34;Blackburn;70
+34;Everton;37
+34;Liverpool;53
+34;Chelsea;38
+35;Southampton;33
+35;Leeds;56
+35;Arsenal;62
+35;Blackburn;73
+35;Chelsea;41
+35;Coventry;41
+35;Liverpool;53
+35;Man City;36
+35;Norwich;47
+35;Oldham;34
+35;Sheffield Weds;51
+35;Oldham;37
+35;Newcastle;64
+35;Swindon;26
+35;Man United;76
+35;Southampton;33
+35;Wimbledon;51
+35;Sheffield United;34
+35;Aston Villa;50
+35;Tottenham;39
+35;QPR;50
+35;Everton;37
+36;West Ham;41
+36;Aston Villa;51
+36;Everton;37
+36;Ipswich;41
+36;Man United;79
+36;Newcastle;65
+36;QPR;50
+36;Sheffield United;35
+36;Southampton;33
+36;Swindon;26
+36;Tottenham;39
+36;Ipswich;41
+36;Norwich;48
+36;Blackburn;76
+36;Coventry;44
+36;Oldham;37
+36;Chelsea;42
+36;Leeds;59
+36;Arsenal;63
+36;Man City;39
+36;Sheffield Weds;54
+36;West Ham;44
+37;Wimbledon;52
+37;Coventry;47
+37;Liverpool;56
+37;Man City;42
+37;Norwich;48
+37;Sheffield Weds;57
+37;West Ham;44
+37;Blackburn;79
+37;QPR;51
+37;Arsenal;66
+37;Coventry;48
+37;Liverpool;57
+37;Tottenham;39
+37;Ipswich;41
+37;Newcastle;65
+37;Southampton;36
+37;QPR;51
+37;Everton;40
+37;Aston Villa;51
+37;Chelsea;43
+37;Chelsea;43
+37;Sheffield Weds;58
+38;Ipswich;42
+38;Liverpool;57
+38;Man City;43
+38;Oldham;37
+38;QPR;54
+38;Sheffield United;35
+38;Southampton;39
+38;Wimbledon;55
+38;Leeds;62
+38;Arsenal;67
+38;Aston Villa;51
+38;Swindon;27
+38;Newcastle;68
+38;Norwich;49
+38;West Ham;47
+38;Everton;40
+38;Aston Villa;54
+38;Blackburn;79
+38;Man United;79
+38;Tottenham;39
+38;Wimbledon;56
+38;Arsenal;70
+39;Chelsea;44
+39;Everton;41
+39;Man United;82
+39;Newcastle;71
+39;Norwich;49
+39;Sheffield Weds;61
+39;Swindon;27
+39;Tottenham;42
+39;West Ham;47
+39;Blackburn;80
+39;Wimbledon;59
+39;Leeds;63
+39;Coventry;49
+39;Man City;43
+39;Oldham;37
+39;Sheffield United;38
+39;Ipswich;42
+39;Wimbledon;62
+39;Southampton;39
+39;Liverpool;60
+39;QPR;55
+39;Oldham;37
+40;Chelsea;47
+40;Leeds;63
+40;Newcastle;74
+40;QPR;56
+40;West Ham;47
+40;Arsenal;70
+40;Leeds;66
+40;Liverpool;60
+40;Man City;44
+40;Oldham;38
+40;QPR;56
+40;Swindon;27
+40;Man United;85
+40;Aston Villa;54
+40;Arsenal;71
+40;Blackburn;83
+40;West Ham;50
+40;Everton;41
+40;Norwich;52
+40;Chelsea;48
+40;Sheffield Weds;62
+40;Swindon;30
+41;Sheffield United;41
+41;Southampton;42
+41;Wimbledon;65
+41;Ipswich;42
+41;Coventry;52
+41;Leeds;67
+41;Oldham;39
+41;QPR;57
+41;Chelsea;48
+41;Man United;88
+41;Oldham;39
+41;Newcastle;74
+41;Aston Villa;54
+41;Tottenham;42
+41;Man United;91
+41;Blackburn;83
+41;Sheffield Weds;63
+41;Sheffield United;42
+41;West Ham;51
+41;Coventry;55
+41;Southampton;42
+41;Tottenham;45
+42;Aston Villa;57
+42;Blackburn;84
+42;Chelsea;51
+42;Everton;44
+42;Newcastle;77
+42;Norwich;53
+42;Sheffield Weds;64
+42;Swindon;30
+42;Tottenham;45
+42;West Ham;52
+42;Man United;92
+42;Liverpool;60
+42;Ipswich;43
+42;Sheffield United;42
+42;Wimbledon;65
+42;Arsenal;71
+42;Oldham;40
+42;Man City;45
+42;Leeds;70
+42;QPR;60
+42;Southampton;43
+42;Coventry;56

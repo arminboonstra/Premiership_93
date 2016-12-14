@@ -1,0 +1,50 @@
+---
+title: "Reproducible Pitch Presentation"
+author: "Armin Boonstra"
+date: "14 december 2016"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Premiership table 1993
+
+This presentation gives of the Premiership table application.
+
+The user is able to see the progress of the 22 teams that took part in the 1992-1993 season.
+
+## Application options
+
+- The user can select which teams he or she wants to see in the table
+- The user is able to select a week number, to see what the table looks like up to that week number
+
+## Data Source
+
+The data is taken from the Premier League website: https://www.premierleague.com/
+
+This was reworked into a csv file and looks like this:
+
+```{r 5, echo = TRUE}
+prem <- read.csv('premiership9293.csv', sep=';')
+head(prem)
+```
+
+## Example of the graph in the application
+
+The graph shows the progress of up to 22 teams in the Premiership for the 1992-1993 season.
+The x-axis shows the weeks and the y-axis the number of points gained per team.
+
+```{r cars, echo = FALSE, message = FALSE, warning=FALSE}
+library(ggplot2)
+
+prem <- read.csv('premiership9293.csv', sep=';')
+g <- ggplot(prem, aes(x=Week, y=Points, colour = Team)) + geom_line()
+g <- g + labs(y='Points')
+g
+```
+
+
+
+
